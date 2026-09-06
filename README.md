@@ -4,8 +4,7 @@
 </div>
 
 I am a Mathematics graduate with an M.Sc. in Engineering and Data Science.<br>
-I am interested in Data Science, AI Engineering, machine learning and <br>
-cloud-based applications. 
+I am interested in Data Science, AI Engineering, machine learning and cloud-based applications. 
 
 
 ## 🛠 Skills
