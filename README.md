@@ -1,17 +1,21 @@
-## Ricardo Casado
+<div align="center">
+  
+# Yasser Fuentes
 
 I am a Mathematics graduate with an M.Sc. in Engineering and Data Science.
 I am interested in Data Science, AI Engineering, machine learning and
 cloud-based applications.
 
+</div>
+
+
 ## 🛠 Skills
 
-- **Programming Languages**:
+- **Programming and Scripting Languages**:
 
-| ![Python](https://skillicons.dev/icons?i=python) | ![R](https://skillicons.dev/icons?i=r) | ![SQL](https://skillicons.dev/icons?i=mysql) |
-|:------------------------------------------------:|:--------------------------------------:|:--------------------------------------------:|
-| **Python**                                       | **R**                                  | **SQL**                                      |
-
+| ![Python](https://skillicons.dev/icons?i=python) | ![R](https://skillicons.dev/icons?i=r) | ![SQL](https://skillicons.dev/icons?i=mysql) | ![PowerShell](https://skillicons.dev/icons?i=powershell) |
+|:------------------------------------------------:|:--------------------------------------:|:--------------------------------------------:|:--------------------------------------------------------:|
+| **Python**                                       | **R**                                  | **SQL**                                      | **PowerShell**                                           |
 
 - **Data Science and Machine Learning**:
 
