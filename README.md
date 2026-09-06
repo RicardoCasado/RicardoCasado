@@ -29,10 +29,9 @@ I am interested in Data Science, AI Engineering, machine learning and cloud-base
 
 - **Tools and Technologies**:
 
-| ![Azure](https://skillicons.dev/icons?i=azure) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![PyCharm](https://skillicons.dev/icons?i=pycharm) |
-|:----------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|
-| **Azure**                                      | **Docker**                                       | **Kubernetes**                                           | **Git**                                    | **GitHub**                                       | **VS Code**                                      | **PyCharm**                                      |
-
+| ![Azure](https://skillicons.dev/icons?i=azure) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![Git](https://skillicons.dev/icons?i=git) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![PyCharm](https://skillicons.dev/icons?i=pycharm) |
+|:----------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|
+| **Azure**                                      | **Docker**                                       | **Kubernetes**                                           | **Git**                                    | **VS Code**                                      | **PyCharm**                                      |
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/ricardo-casado-g%C3%B3mez-8080a423a/)
