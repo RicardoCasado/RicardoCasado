@@ -1,7 +1,8 @@
+
+
+[![Ricardo Casado Header](https://raw.githubusercontent.com/RicardoCasado/RicardoCasado/main/readme_header.png "Ricardo Casado")](https://github.com/RicardoCasado)
+
 <div align="center">
-
-# Ricardo Casado
-
 </div>
 
 I am a Mathematics graduate with an M.Sc. in Engineering and Data Science.<br>
