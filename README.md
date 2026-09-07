@@ -3,10 +3,10 @@
 [![Ricardo Casado Header](https://raw.githubusercontent.com/RicardoCasado/RicardoCasado/main/readme_header.png "Ricardo Casado")](https://github.com/RicardoCasado)
 
 <div align="center">
-</div>
-
 I am a Mathematics graduate with an M.Sc. in Engineering and Data Science.<br>
-I am interested in Data Science, AI Engineering, machine learning and cloud-based applications.
+I am interested in Data Science, AI Engineering, machine learning and cloud-based applications.  
+</div>
+--- 
 
 ## 🛠 Skills
 
