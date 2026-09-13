@@ -11,9 +11,9 @@
 
 ### Programming and Scripting Languages
 
-| ![Python](https://skillicons.dev/icons?i=python) | ![R](https://skillicons.dev/icons?i=r) | ![SQL](https://skillicons.dev/icons?i=mysql) | ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) |
-|:-----------------------------------------------:|:-----------------------------------:|:-----------------------------------------:|:-------------------------------------------------------:|:-------------------------------------:|:-----------------------------------------:|
-| **Python** | **R** | **SQL** | **PowerShell** | **C** | **C++** |
+| ![Python](https://skillicons.dev/icons?i=python) | ![R](https://skillicons.dev/icons?i=r) | ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) |
+|:-----------------------------------------------:|:-----------------------------------:|:-----------------------------------------:|:-------------------------------------------------------:|:-------------------------------------:|
+| **Python** | **R** | **PowerShell** | **C** | **C++** |
 
 
 ### Data Science and Machine Learning
@@ -25,9 +25,9 @@
 
 ### Databases
 
-| ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
-|:--------------------------------------------------:|
-| **MongoDB** |
+| ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![SQL](https://skillicons.dev/icons?i=mysql) |
+|:--------------------------------------------------:| :--------------------------------------------------: |
+| **MongoDB** | **SQL** |
 
 
 ### Tools and Technologies
